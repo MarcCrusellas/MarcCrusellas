@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in Nechi Group
 - 🌱 I’m currently learning C++
 - 😄 Pronouns: he/him
-- - ⚡ Fun fact: I'm Rust lang Fan
+- ⚡ Fun fact: I'm Rust lang Fan
 <!--
 **MarcCrusellas/MarcCrusellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
