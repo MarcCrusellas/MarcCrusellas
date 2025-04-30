@@ -1,33 +1,69 @@
-### Hi there 👋
+# 👋 Hey there, I’m MarcCrusellas
 
-- 🔭 I’m currently working in Nechi Group
-- :envelope_with_arrow: [LinkedIn](https://www.linkedin.com/in/marccrusellas)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm Rust lang Fan
+Welcome to my GitHub! I’m a software developer based in Spain, passionate about building smart, clean, and meaningful tech. Whether it's creating apps that scale or diving into systems-level code, I'm always down to push boundaries and learn something new.
 
+---
 
+## 🔭 Current Status
+- 💼 Working at **Nechi Group**
+- 🌱 Exploring Rust, WPF, and modern .NET
+- 🧠 Forever learning and leveling up
 
-# Hi there, I'm MarcCrusellas! 👋
+---
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Here's a little bit about me:
+## 🧰 Tech Stack
+**Languages:**  
+Rust 🦀 · C# · JavaScript · Python · Java · C++
 
+**Frameworks & Tools:**  
+.NET · Angular · Node.js · Docker · Git · MongoDB · MySQL
 
-## 💼 Professional Experience
-- **Software Developer at Amaisys Technologies S.L.U.**
-- **Intern at Amaisys Technologies S.L.U.**
+**Others:**  
+WPF · Avalonia · Electron · GitHub Actions
 
-## 📫 How to Reach Me
-- Email: [marcrumag@gmail.com](mailto:marcrumag@gmail.com)
-- LinkedIn: [MarcCrusellas](https://www.linkedin.com/in/marccrusellas)
+---
+
+## 📫 Let’s Connect
+- ✉️ [marcrumag@gmail.com](mailto:marcrumag@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marccrusellas)
+
+---
 
 ## ⚡ Fun Facts
-- I'm a huge fan of sci-fi movies and books.
-- I enjoy developing exiting projects in my free time.
+- Huge Rust lang fan (yes, I chose pain and performance) 🧡  
+- Sci-fi nerd: books, movies, you name it  
+- Side projects are my playground
 
-## 🛠️ Technologies & Tools
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML, CSS, Angular, Node.js
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker
+---
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcCrusellas&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcCrusellas&theme=dark" />
+  <br><br>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarcCrusellas&theme=dark&langs_count=10&layout=compact" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=MarcCrusellas&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub trophies" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marccrusellas" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+</p>
+
+---
+
+<!-- Profile view count can go here if you want -->
