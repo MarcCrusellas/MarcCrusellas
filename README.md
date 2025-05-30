@@ -5,7 +5,6 @@ Welcome to my GitHub! I’m a software developer based in Spain, passionate abou
 ---
 
 ## 🔭 Current Status
-- 💼 Working at **Nechi Group**
 - 🌱 Exploring Rust, WPF, and modern .NET
 - 🧠 Forever learning and leveling up
 
